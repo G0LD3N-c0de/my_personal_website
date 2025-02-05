@@ -6,7 +6,7 @@ export default function Header() {
         <h1 className="header__title">Alakazemi Creations</h1>
         <div className="header__links">
           <p className="header__link">About</p>
-          <p className="header__link">Apps & Games</p>
+          <p className="header__link">Applications</p>
           <p className="header__link">Writings</p>
         </div>
       </div>

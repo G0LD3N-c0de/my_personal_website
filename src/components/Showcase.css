@@ -1,0 +1,7 @@
+.showcase {
+  margin: 50px 40px;
+}
+
+.showcase__title {
+  border-bottom: 1px solid black;
+}

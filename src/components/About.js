@@ -5,10 +5,25 @@ export default function About() {
     <div className="about">
       <img src={self} className="about__image" alt="image of portfolio owner" />
       <div className="about__text">
-        <h2>
-          The swaggiest man to ever swagger. He once swagged so hard that he
-          made 1000 women pregnant with swag alone. He is a swaggaholic.
-        </h2>
+        <h3 className="about__text-title">About Me</h3>
+        <div className="about__text-paragraph">
+          Hey there! My name is Nicoli Kazemi, and I am a software developer.
+          Specialized in and passionate about web development and UI/UX design.
+          As an alumni of TripleTen Software School, I learned both the
+          front-end and back-end side of the development process.
+          <br></br>
+          <br></br>I am also a author with my first self-published book,
+          "Divergent Point" set to be published soon. Don't get too excited. It
+          will definately have that first book energy :D
+          <br></br>
+          <br></br>
+          Colorado resident and graduate of University of Colorado, Colorado
+          Springs. In my freetime, I like to read and play video games or go out
+          and explore Colorado's vast natural beauty.
+          <br></br>
+          <br></br>
+          Feel free to connect with me!
+        </div>
       </div>
     </div>
   );
