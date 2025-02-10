@@ -4,4 +4,12 @@
 
 .showcase__title {
   border-bottom: 1px solid black;
+  margin-bottom: 30px;
+}
+
+.showcase__items {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 40px;
 }

@@ -10,9 +10,11 @@ export default function About() {
           Hey there! My name is Nicoli Kazemi, and I am a software developer.
           Specialized in and passionate about web development and UI/UX design.
           As an alumni of TripleTen Software School, I learned both the
-          front-end and back-end side of the development process.
+          front-end and back-end side of the development process. Always
+          interested in opportunites where I can improve my web development
+          skills.
           <br></br>
-          <br></br>I am also a author with my first self-published book,
+          <br></br>I am also an author with my first self-published book,
           "Divergent Point" set to be published soon. Don't get too excited. It
           will definately have that first book energy :D
           <br></br>
