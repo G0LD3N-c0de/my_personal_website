@@ -1,9 +1,9 @@
 .about {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   margin: 50px 50px;
-  column-gap: 40px;
+  column-gap: 100px;
 }
 
 .about__image {
@@ -13,14 +13,15 @@
 }
 
 .about__text {
-  background-color: rgba(255, 255, 255, 0.8);
-  padding: 20px;
-  border-radius: 10px;
-  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.4);
-  -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.4);
+  max-width: 600px;
 }
 
 .about__text-title {
-  border-bottom: 1px solid black;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
+  font-size: 64px;
+}
+
+.about__text-description {
+  font-size: 32px;
+  font-weight: bold;
 }
