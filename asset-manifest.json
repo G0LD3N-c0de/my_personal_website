@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my_personal_website/static/css/main.1aaedda8.css",
-    "main.js": "/my_personal_website/static/js/main.e1e2a7bb.js",
+    "main.css": "/my_personal_website/static/css/main.7429b4b2.css",
+    "main.js": "/my_personal_website/static/js/main.b7959fe4.js",
     "static/js/488.e4208ca4.chunk.js": "/my_personal_website/static/js/488.e4208ca4.chunk.js",
     "static/media/textBasedAdventure.png": "/my_personal_website/static/media/textBasedAdventure.ae6369738810f957f461.png",
     "static/media/divergentPoint.png": "/my_personal_website/static/media/divergentPoint.8ec1d9ff7253c6311f1e.png",
@@ -10,12 +10,12 @@
     "static/media/Professional.jpg": "/my_personal_website/static/media/Professional.94f3cfae4cf53956e202.jpg",
     "static/media/WTWR.png": "/my_personal_website/static/media/WTWR.8ecba530fa73d36953c6.png",
     "index.html": "/my_personal_website/index.html",
-    "main.1aaedda8.css.map": "/my_personal_website/static/css/main.1aaedda8.css.map",
-    "main.e1e2a7bb.js.map": "/my_personal_website/static/js/main.e1e2a7bb.js.map",
+    "main.7429b4b2.css.map": "/my_personal_website/static/css/main.7429b4b2.css.map",
+    "main.b7959fe4.js.map": "/my_personal_website/static/js/main.b7959fe4.js.map",
     "488.e4208ca4.chunk.js.map": "/my_personal_website/static/js/488.e4208ca4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1aaedda8.css",
-    "static/js/main.e1e2a7bb.js"
+    "static/css/main.7429b4b2.css",
+    "static/js/main.b7959fe4.js"
   ]
 }
