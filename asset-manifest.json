@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7429b4b2.css",
-    "main.js": "/static/js/main.2a276e63.js",
+    "main.css": "/static/css/main.850997b2.css",
+    "main.js": "/static/js/main.2a50b1a6.js",
     "static/js/488.e4208ca4.chunk.js": "/static/js/488.e4208ca4.chunk.js",
     "static/media/textBasedAdventure.png": "/static/media/textBasedAdventure.ae6369738810f957f461.png",
     "static/media/divergentPoint.png": "/static/media/divergentPoint.8ec1d9ff7253c6311f1e.png",
@@ -9,13 +9,14 @@
     "static/media/starWars.png": "/static/media/starWars.3b31e6cc1bb26d5ac044.png",
     "static/media/Professional.jpg": "/static/media/Professional.94f3cfae4cf53956e202.jpg",
     "static/media/WTWR.png": "/static/media/WTWR.8ecba530fa73d36953c6.png",
+    "static/media/closeButton.svg": "/static/media/closeButton.41654df85174806f9922.svg",
     "index.html": "/index.html",
-    "main.7429b4b2.css.map": "/static/css/main.7429b4b2.css.map",
-    "main.2a276e63.js.map": "/static/js/main.2a276e63.js.map",
+    "main.850997b2.css.map": "/static/css/main.850997b2.css.map",
+    "main.2a50b1a6.js.map": "/static/js/main.2a50b1a6.js.map",
     "488.e4208ca4.chunk.js.map": "/static/js/488.e4208ca4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7429b4b2.css",
-    "static/js/main.2a276e63.js"
+    "static/css/main.850997b2.css",
+    "static/js/main.2a50b1a6.js"
   ]
 }
