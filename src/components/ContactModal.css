@@ -1,0 +1,60 @@
+.contact-modal {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-modal__content {
+  max-width: 500px;
+  width: 100%;
+  background-color: #fff;
+  padding: 28px 28px 36px;
+  border-radius: 20px;
+  position: relative;
+}
+
+.contact-modal__title {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.contact-modal__close {
+  background-image: url("../images/closeButton.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: transparent;
+  border: none;
+  height: 14px;
+  width: 14px;
+  position: absolute;
+  right: 31px;
+  top: 23px;
+  cursor: pointer;
+}
+
+.contact-modal__form {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-modal__label {
+  margin-bottom: 5px;
+}
+
+.contact-modal__input {
+  border-radius: 10px;
+}
+
+.contact-modal__submit {
+  border-radius: 10px;
+  margin-top: 20px;
+  align-self: center;
+  padding: 10px;
+}
