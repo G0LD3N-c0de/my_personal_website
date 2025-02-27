@@ -14,12 +14,12 @@ export default function Showcase() {
         <ItemCard
           source={textBasedAdventure}
           title="Text Based Adventure"
-          description="Journey through a text based dungeon and try to find your way out!"
+          description="Journey through a text dungeon and try to find your way out!"
           link="https://github.com/G0LD3N-c0de/textBasedAdventure"
         />
         <ItemCard
           source={WTWR}
-          title="What's the Weather Right Now?"
+          title="What to Wear?"
           description="A weather app that tells you the weather for any location!"
           link="https://github.com/G0LD3N-c0de/se_project_express"
         />
@@ -38,7 +38,7 @@ export default function Showcase() {
         <ItemCard
           source={divergentPoint}
           title="Divergent Point"
-          description="A book that follows Hazel as he embarks towards Mars and uncovers its secrets."
+          description="Follow Hazel as he embarks toward Mars and uncovers its secrets."
           link="https://github.com/G0LD3N-c0de/divergentPoint"
         />
       </div>
