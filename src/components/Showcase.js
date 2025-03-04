@@ -4,7 +4,7 @@ import textBasedAdventure from "../images/textBasedAdventure.png";
 import WTWR from "../images/WTWR.png";
 import AroundTheUs from "../images/AroundTheUs.png";
 import starWars from "../images/starWars.png";
-import divergentPoint from "../images/divergentPoint.png";
+import divergentPoint from "../images/MCIman.png";
 
 export default function Showcase() {
   return (
