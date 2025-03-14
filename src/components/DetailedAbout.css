@@ -1,3 +1,21 @@
 .detailed-about {
-  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  gap: 100px;
+  max-width: 1440px;
+  width: 100%;
+  align-items: center;
+  margin: 40px 0;
+}
+
+.detailed-about__image {
+  height: 600px;
+  width: 400px;
+  border-radius: 50%;
+}
+
+.detailed-about__text {
+  max-width: 800px;
+  width: 100%;
+  font-size: 24px;
 }

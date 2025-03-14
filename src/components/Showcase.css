@@ -1,5 +1,7 @@
 .showcase {
   margin: 50px 40px;
+  max-width: 1440px;
+  width: 100%;
 }
 
 .showcase__title {
