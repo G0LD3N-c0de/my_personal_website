@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.189fff3d.css",
-    "main.js": "/static/js/main.80c56e38.js",
+    "main.css": "/static/css/main.2675eec7.css",
+    "main.js": "/static/js/main.2bca3e4b.js",
     "static/js/488.e4208ca4.chunk.js": "/static/js/488.e4208ca4.chunk.js",
     "static/media/MCIman.png": "/static/media/MCIman.19044d0d9d63d78c609a.png",
+    "static/media/beach-nico.jpg": "/static/media/beach-nico.5761cd83f9e1f73cd414.jpg",
     "static/media/textBasedAdventure.png": "/static/media/textBasedAdventure.ae6369738810f957f461.png",
     "static/media/AroundTheUs.png": "/static/media/AroundTheUs.978834eb25268153d181.png",
     "static/media/starWars.png": "/static/media/starWars.3b31e6cc1bb26d5ac044.png",
@@ -11,12 +12,12 @@
     "static/media/WTWR.png": "/static/media/WTWR.8ecba530fa73d36953c6.png",
     "index.html": "/index.html",
     "static/media/closeButton.svg": "/static/media/closeButton.41654df85174806f9922.svg",
-    "main.189fff3d.css.map": "/static/css/main.189fff3d.css.map",
-    "main.80c56e38.js.map": "/static/js/main.80c56e38.js.map",
+    "main.2675eec7.css.map": "/static/css/main.2675eec7.css.map",
+    "main.2bca3e4b.js.map": "/static/js/main.2bca3e4b.js.map",
     "488.e4208ca4.chunk.js.map": "/static/js/488.e4208ca4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.189fff3d.css",
-    "static/js/main.80c56e38.js"
+    "static/css/main.2675eec7.css",
+    "static/js/main.2bca3e4b.js"
   ]
 }
