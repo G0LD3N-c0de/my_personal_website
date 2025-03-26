@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a0a71b90.css",
-    "main.js": "/static/js/main.4ebedf6a.js",
+    "main.css": "/static/css/main.8fe0efc0.css",
+    "main.js": "/static/js/main.23ce899e.js",
     "static/js/488.e4208ca4.chunk.js": "/static/js/488.e4208ca4.chunk.js",
     "static/media/MCIman.png": "/static/media/MCIman.19044d0d9d63d78c609a.png",
     "static/media/beach-nico.jpg": "/static/media/beach-nico.5761cd83f9e1f73cd414.jpg",
@@ -12,12 +12,12 @@
     "static/media/WTWR.png": "/static/media/WTWR.8ecba530fa73d36953c6.png",
     "index.html": "/index.html",
     "static/media/closeButton.svg": "/static/media/closeButton.41654df85174806f9922.svg",
-    "main.a0a71b90.css.map": "/static/css/main.a0a71b90.css.map",
-    "main.4ebedf6a.js.map": "/static/js/main.4ebedf6a.js.map",
+    "main.8fe0efc0.css.map": "/static/css/main.8fe0efc0.css.map",
+    "main.23ce899e.js.map": "/static/js/main.23ce899e.js.map",
     "488.e4208ca4.chunk.js.map": "/static/js/488.e4208ca4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0a71b90.css",
-    "static/js/main.4ebedf6a.js"
+    "static/css/main.8fe0efc0.css",
+    "static/js/main.23ce899e.js"
   ]
 }
