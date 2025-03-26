@@ -17,6 +17,7 @@
   padding: 28px 28px 36px;
   border-radius: 20px;
   position: relative;
+  margin: 0 20px;
 }
 
 .contact-modal__title {

@@ -55,7 +55,6 @@
   padding: 20px;
   border-radius: 10px;
   gap: 10px;
-  transition: 0.3s;
 }
 
 @media (max-width: 768px) {
