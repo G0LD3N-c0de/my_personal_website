@@ -16,6 +16,11 @@ function App() {
 
   const openModal = () => {
     setActiveModal("contact");
+    if (hamburgerState === "header__hamburger-menu-inactive") {
+      setHamburgerState("header__hamburger-menu-active");
+    } else {
+      setHamburgerState("header__hamburger-menu-inactive");
+    }
   };
 
   const handleCloseModal = () => {

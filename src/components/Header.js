@@ -24,10 +24,14 @@ export default function Header({ onClick, hamburgerState, setHamburgerState }) {
           onClick={setHamburgerState}
         />
         <div className={hamburgerState}>
-          <Link to="/" className="header__link">
+          <Link to="/" className="header__link" onClick={setHamburgerState}>
             Home
           </Link>
-          <Link to="/about" className="header__link">
+          <Link
+            to="/about"
+            className="header__link"
+            onClick={setHamburgerState}
+          >
             About
           </Link>
           <p className="header__link" onClick={onClick}>
