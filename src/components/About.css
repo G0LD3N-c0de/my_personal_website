@@ -38,6 +38,11 @@
     justify-content: center;
     gap: 50px;
   }
+
+  .about__text {
+    max-width: 500px;
+  }
+
   .about__image {
     border-radius: 50%;
     max-height: 300px;

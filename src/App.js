@@ -10,6 +10,9 @@ import { Routes, Route } from "react-router";
 
 function App() {
   const [activeModal, setActiveModal] = useState("");
+  const [hamburgerState, setHamburgerState] = useState(
+    "header__hamburger-menu-inactive"
+  );
 
   const openModal = () => {
     setActiveModal("contact");
@@ -19,9 +22,21 @@ function App() {
     setActiveModal("");
   };
 
+  const hangleHamburgerStateChange = () => {
+    if (hamburgerState === "header__hamburger-menu-inactive") {
+      setHamburgerState("header__hamburger-menu-active");
+    } else {
+      setHamburgerState("header__hamburger-menu-inactive");
+    }
+  };
+
   return (
     <div className="App">
-      <Header onClick={openModal} />
+      <Header
+        onClick={openModal}
+        hamburgerState={hamburgerState}
+        setHamburgerState={hangleHamburgerStateChange}
+      />
       <Routes>
         <Route
           path="/"
