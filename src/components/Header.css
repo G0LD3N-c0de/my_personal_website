@@ -33,6 +33,7 @@
 
 .header__title {
   transition: 0.3s;
+  margin-right: 20px;
 }
 
 .header__hamburger {
